@@ -1,0 +1,4 @@
+pillow
+bs4
+requests
+get_tweepy
